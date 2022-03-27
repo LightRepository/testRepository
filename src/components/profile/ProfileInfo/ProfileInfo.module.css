@@ -1,0 +1,10 @@
+
+.content_avatar img{
+  width: 100px;
+  padding: 5px;
+}
+
+.content_background img{
+  width: 100%;
+  max-height: 300px;
+}

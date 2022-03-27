@@ -1,0 +1,18 @@
+.item{
+margin-left: 5px;
+}
+
+.item__avatar img{
+   width: 50px;
+   border-radius: 100%;
+}
+
+.item__avatar{
+   display: flex;
+}
+
+.post{
+   margin: 10px;
+   background: white;
+   border-radius: 10px;
+}
